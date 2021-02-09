@@ -2,7 +2,7 @@
 * Created By Gullian Van Der Walt 2020
 */
 
-package com.gvdw.RecordCollector.Controllers;
+package com.gvdw.record_collector.controllers;
 
 //Imports
 import java.util.List;
@@ -10,8 +10,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
-import com.gvdw.RecordCollector.Models.Records;
-import com.gvdw.RecordCollector.Services.RecordsService;
+import com.gvdw.record_collector.models.Records;
+import com.gvdw.record_collector.services.RecordsService;
 import java.util.Optional;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

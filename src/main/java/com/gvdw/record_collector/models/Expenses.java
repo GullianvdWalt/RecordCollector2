@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.gvdw.RecordCollector.Models;
+package com.gvdw.record_collector.models;
 
 import java.sql.Date;
 import javax.persistence.Entity;

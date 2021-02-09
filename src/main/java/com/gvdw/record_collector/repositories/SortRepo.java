@@ -1,6 +1,6 @@
-package com.gvdw.RecordCollector.Repositories;
+package com.gvdw.record_collector.repositories;
 
-import com.gvdw.RecordCollector.Models.Records;
+import com.gvdw.record_collector.models.Records;
 import java.util.List;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.jpa.repository.Query;

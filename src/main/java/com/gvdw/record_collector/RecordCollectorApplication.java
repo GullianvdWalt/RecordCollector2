@@ -1,5 +1,9 @@
 package com.gvdw.record_collector;
 
+/**
+ * @author Gullian
+ */
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

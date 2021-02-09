@@ -2,10 +2,10 @@
 * Created By Gullian Van Der Walt 2020
 */
 
-package com.gvdw.RecordCollector.Repositories;
+package com.gvdw.record_collector.repositories;
 
 
-import com.gvdw.RecordCollector.Models.Records;
+import com.gvdw.record_collector.models.Records;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

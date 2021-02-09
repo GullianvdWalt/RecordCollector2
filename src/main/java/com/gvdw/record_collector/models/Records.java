@@ -9,7 +9,7 @@
 /*
 * Created By Gullian Van Der Walt 2020
 */
-package com.gvdw.RecordCollector.Models;
+package com.gvdw.record_collector.models;
 
 //Imports
 import java.util.Objects;
